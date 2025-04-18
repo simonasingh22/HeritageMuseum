@@ -29,6 +29,7 @@ include 'includes/header.php';
                 <div class="vintage-card p-6 transform transition-all duration-500 hover:scale-105 hover:shadow-xl animate-slide-up">
                     <div class="relative mb-4 overflow-hidden rounded-lg">
                         <img src="images/exhibition1.jpg" alt="Mughal Era Treasures" class="w-full h-48 object-cover transition-transform duration-700 hover:scale-110">
+                        <div class="absolute top-0 right-0 bg-[#8B4513] text-white text-sm font-bold px-3 py-1 rounded-bl-lg">₹100</div>
                         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
                             <h3 class="text-xl font-['SF_Pro_Display'] tracking-tight text-white">Mughal Era Treasures</h3>
                         </div>
@@ -46,6 +47,7 @@ include 'includes/header.php';
                 <div class="vintage-card p-6 transform transition-all duration-500 hover:scale-105 hover:shadow-xl animate-slide-up" style="animation-delay: 0.2s;">
                     <div class="relative mb-4 overflow-hidden rounded-lg">
                         <img src="images/exhibition2.jpg" alt="Ancient Indian Civilizations" class="w-full h-48 object-cover transition-transform duration-700 hover:scale-110">
+                        <div class="absolute top-0 right-0 bg-[#8B4513] text-white text-sm font-bold px-3 py-1 rounded-bl-lg">₹75</div>
                         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
                             <h3 class="text-xl font-['SF_Pro_Display'] tracking-tight text-white">Ancient Indian Civilizations</h3>
                         </div>
@@ -63,6 +65,7 @@ include 'includes/header.php';
                 <div class="vintage-card p-6 transform transition-all duration-500 hover:scale-105 hover:shadow-xl animate-slide-up" style="animation-delay: 0.4s;">
                     <div class="relative mb-4 overflow-hidden rounded-lg">
                         <img src="images/exhibition3.jpg" alt="Temple Architecture" class="w-full h-48 object-cover transition-transform duration-700 hover:scale-110">
+                        <div class="absolute top-0 right-0 bg-[#8B4513] text-white text-sm font-bold px-3 py-1 rounded-bl-lg">₹150</div>
                         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
                             <h3 class="text-xl font-['SF_Pro_Display'] tracking-tight text-white">Temple Architecture</h3>
                         </div>
@@ -80,6 +83,7 @@ include 'includes/header.php';
                 <div class="vintage-card p-6 transform transition-all duration-500 hover:scale-105 hover:shadow-xl animate-slide-up" style="animation-delay: 0.6s;">
                     <div class="relative mb-4 overflow-hidden rounded-lg">
                         <img src="images/exhibition4.jpg" alt="Contemporary Indian Art" class="w-full h-48 object-cover transition-transform duration-700 hover:scale-110">
+                        <div class="absolute top-0 right-0 bg-[#8B4513] text-white text-sm font-bold px-3 py-1 rounded-bl-lg">₹150</div>
                         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
                             <h3 class="text-xl font-['SF_Pro_Display'] tracking-tight text-white">Contemporary Indian Art</h3>
                         </div>
@@ -133,4 +137,4 @@ include 'includes/header.php';
     <div class="fixed right-0 top-0 h-full w-2 bg-gradient-to-b from-[#FF9933] via-white to-[#138808]"></div>
 
     <script src="js/main.js"></script>
-<?php include 'includes/footer.php'; ?> 
+<?php include 'includes/footer.php'; ?>
